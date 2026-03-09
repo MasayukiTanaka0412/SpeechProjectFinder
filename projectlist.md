@@ -1,5 +1,3 @@
-## Dynamic Leadership
-
 | Path | Project | Purpose |
 |---|---|---|
 | Dynamic Leadership | Ice Breaker | Introduce yourself to the club and learn the basic structure of a public speech. |
@@ -42,11 +40,6 @@
 | Dynamic Leadership | Lessons Learned | Learn about and apply the skills needed to run a lessons learned meeting during a project or after its completion. |
 | Dynamic Leadership | Moderate a Panel Discussion | Apply your skills as a public speaker and leader to facilitate a panel discussion. |
 | Dynamic Leadership | Prepare to Speak Professionally | Practice developing and presenting a longer speech. |
-
-## Engaging Humor
-
-| Path | Project | Purpose |
-|---|---|---|
 | Engaging Humor | Ice Breaker | Introduce yourself to the club and learn the basic structure of a public speech. |
 | Engaging Humor | Writing a Speech with Purpose | Learn or review basic methods for writing a speech and present a well-organized speech on any topic. |
 | Engaging Humor | Introduction to Vocal Variety and Body Language | Practice using vocal variety or body language to enhance a speech. |
@@ -85,11 +78,6 @@
 | Engaging Humor | Lessons Learned | Learn about and apply the skills needed to run a lessons learned meeting during a project or after its completion. |
 | Engaging Humor | Moderate a Panel Discussion | Apply your skills as a public speaker and leader to facilitate a panel discussion. |
 | Engaging Humor | Prepare to Speak Professionally | Practice developing and presenting a longer speech. |
-
-## Motivational Strategies
-
-| Path | Project | Purpose |
-|---|---|---|
 | Motivational Strategies | Ice Breaker | Introduce yourself to the club and learn the basic structure of a public speech. |
 | Motivational Strategies | Writing a Speech with Purpose | Learn or review basic methods for writing a speech and present a well-organized speech on any topic. |
 | Motivational Strategies | Introduction to Vocal Variety and Body Language | Practice using vocal variety or body language to enhance a speech. |
@@ -129,11 +117,6 @@
 | Motivational Strategies | Lessons Learned | Learn about and apply the skills needed to run a lessons learned meeting during a project or after its completion. |
 | Motivational Strategies | Moderate a Panel Discussion | Apply your skills as a public speaker and leader to facilitate a panel discussion. |
 | Motivational Strategies | Prepare to Speak Professionally | Practice developing and presenting a longer speech. |
-
-## Persuasive Influence
-
-| Path | Project | Purpose |
-|---|---|---|
 | Persuasive Influence | Ice Breaker | Introduce yourself to the club and learn the basic structure of a public speech. |
 | Persuasive Influence | Writing a Speech with Purpose | Learn or review basic methods for writing a speech and present a well-organized speech on any topic. |
 | Persuasive Influence | Introduction to Vocal Variety and Body Language | Practice using vocal variety or body language to enhance a speech. |
@@ -172,11 +155,6 @@
 | Persuasive Influence | Lessons Learned | Learn about and apply the skills needed to run a lessons learned meeting during a project or after its completion. |
 | Persuasive Influence | Moderate a Panel Discussion | Apply your skills as a public speaker and leader to facilitate a panel discussion. |
 | Persuasive Influence | Prepare to Speak Professionally | Practice developing and presenting a longer speech. |
-
-## Presentation Mastery
-
-| Path | Project | Purpose |
-|---|---|---|
 | Presentation Mastery | Ice Breaker | Introduce yourself to the club and learn the basic structure of a public speech. |
 | Presentation Mastery | Writing a Speech with Purpose | Learn or review basic methods for writing a speech and present a well-organized speech on any topic. |
 | Presentation Mastery | Introduction to Vocal Variety and Body Language | Practice using vocal variety or body language to enhance a speech. |
@@ -214,11 +192,6 @@
 | Presentation Mastery | Leading in Your Volunteer Organization | Apply the skills needed to successfully lead in a volunteer organization. |
 | Presentation Mastery | Lessons Learned | Learn about and apply the skills needed to run a lessons learned meeting during a project or after its completion. |
 | Presentation Mastery | Moderate a Panel Discussion | Apply your skills as a public speaker and leader to facilitate a panel discussion. |
-
-## Visionary Communication
-
-| Path | Project | Purpose |
-|---|---|---|
 | Visionary Communication | Ice Breaker | Introduce yourself to the club and learn the basic structure of a public speech. |
 | Visionary Communication | Writing a Speech with Purpose | Learn or review basic methods for writing a speech and present a well-organized speech on any topic. |
 | Visionary Communication | Introduction to Vocal Variety and Body Language | Practice using vocal variety or body language to enhance a speech. |
@@ -259,11 +232,6 @@
 | Visionary Communication | Lessons Learned | Learn about and apply the skills needed to run a lessons learned meeting during a project or after its completion. |
 | Visionary Communication | Moderate a Panel Discussion | Apply your skills as a public speaker and leader to facilitate a panel discussion. |
 | Visionary Communication | Prepare to Speak Professionally | Practice developing and presenting a longer speech. |
-
-## Effective Coaching
-
-| Path | Project | Purpose |
-|---|---|---|
 | Effective Coaching | Ice Breaker | Introduce yourself to the club and learn the basic structure of a public speech. |
 | Effective Coaching | Writing a Speech with Purpose | Learn or review basic methods for writing a speech and present a well-organized speech on any topic. |
 | Effective Coaching | Introduction to Vocal Variety and Body Language | Practice using vocal variety or body language to enhance a speech. |
@@ -303,11 +271,6 @@
 | Effective Coaching | Lessons Learned | Learn about and apply the skills needed to run a lessons learned meeting during a project or after its completion. |
 | Effective Coaching | Moderate a Panel Discussion | Apply your skills as a public speaker and leader to facilitate a panel discussion. |
 | Effective Coaching | Prepare to Speak Professionally | Practice developing and presenting a longer speech. |
-
-## Innovative Planning
-
-| Path | Project | Purpose |
-|---|---|---|
 | Innovative Planning | Ice Breaker | Introduce yourself to the club and learn the basic structure of a public speech. |
 | Innovative Planning | Writing a Speech with Purpose | Learn or review basic methods for writing a speech and present a well-organized speech on any topic. |
 | Innovative Planning | Introduction to Vocal Variety and Body Language | Practice using vocal variety or body language to enhance a speech. |
@@ -345,11 +308,6 @@
 | Innovative Planning | Lessons Learned | Learn about and apply the skills needed to run a lessons learned meeting during a project or after its completion. |
 | Innovative Planning | Moderate a Panel Discussion | Apply your skills as a public speaker and leader to facilitate a panel discussion. |
 | Innovative Planning | Prepare to Speak Professionally | Practice developing and presenting a longer speech. |
-
-## Leadership Development
-
-| Path | Project | Purpose |
-|---|---|---|
 | Leadership Development | Ice Breaker | Introduce yourself to the club and learn the basic structure of a public speech. |
 | Leadership Development | Writing a Speech with Purpose | Learn or review basic methods for writing a speech and present a well-organized speech on any topic. |
 | Leadership Development | Introduction to Vocal Variety and Body Language | Practice using vocal variety or body language to enhance a speech. |
@@ -390,11 +348,6 @@
 | Leadership Development | Lessons Learned | Learn about and apply the skills needed to run a lessons learned meeting during a project or after its completion. |
 | Leadership Development | Moderate a Panel Discussion | Apply your skills as a public speaker and leader to facilitate a panel discussion. |
 | Leadership Development | Prepare to Speak Professionally | Practice developing and presenting a longer speech. |
-
-## Strategic Relationships
-
-| Path | Project | Purpose |
-|---|---|---|
 | Strategic Relationships | Ice Breaker | Introduce yourself to the club and learn the basic structure of a public speech. |
 | Strategic Relationships | Writing a Speech with Purpose | Learn or review basic methods for writing a speech and present a well-organized speech on any topic. |
 | Strategic Relationships | Introduction to Vocal Variety and Body Language | Practice using vocal variety or body language to enhance a speech. |
@@ -431,11 +384,6 @@
 | Strategic Relationships | Lessons Learned | Learn about and apply the skills needed to run a lessons learned meeting during a project or after its completion. |
 | Strategic Relationships | Moderate a Panel Discussion | Apply your skills as a public speaker and leader to facilitate a panel discussion. |
 | Strategic Relationships | Prepare to Speak Professionally | Practice developing and presenting a longer speech. |
-
-## Team Collaboration
-
-| Path | Project | Purpose |
-|---|---|---|
 | Team Collaboration | Ice Breaker | Introduce yourself to the club and learn the basic structure of a public speech. |
 | Team Collaboration | Writing a Speech with Purpose | Learn or review basic methods for writing a speech and present a well-organized speech on any topic. |
 | Team Collaboration | Introduction to Vocal Variety and Body Language | Practice using vocal variety or body language to enhance a speech. |
